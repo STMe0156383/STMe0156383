@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STMe0156383
 - 👀 I’m interested in ... creating a game project
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... new project
+- 💞️ I’m looking to collaborate on ... new project help change the everyday life
 - 📫 How to reach me ... steven.alan.mena@gmail.com
 
 <!---
